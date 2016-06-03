@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JenkinApp</string>
+    <string name="main">Goodbye World!</string>
 </resources>
