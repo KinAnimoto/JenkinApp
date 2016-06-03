@@ -15,7 +15,7 @@ public class UserTest {
     }
 
     @Test
-    public void failingDTest() {
+    public void failingTest() {
         Assert.assertFalse(true);
     }
 }
