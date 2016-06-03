@@ -14,7 +14,7 @@ public class UserTest {
         Assert.assertEquals("foo", u.getName());
     }
 
-    @Test
+//    @Test
 //    public void failingTest() {
 //        Assert.assertFalse(true);
 //    }
